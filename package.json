@@ -1,0 +1,17 @@
+{
+  "name": "ibm-bluemix-faces",
+  "version": "1.0.0",
+  "description": "Faces APIs through a Node module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "faces",
+    "bluemix",
+    "ibm",
+    "bluepages"
+  ],
+  "author": "Mateus Pinheiro <mateus.pinheiro@gmail.com>",
+  "license": "MIT"
+}
